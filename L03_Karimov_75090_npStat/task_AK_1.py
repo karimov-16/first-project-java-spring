@@ -1,9 +1,9 @@
 import numpy as np
 
 # ====== YOUR DATA (change only these lines) ======
-NAME = "Abu"
+NAME = "Abduvoris"
 SURNAME = "Karimov"
-ID = "123456"            # your student ID
+ID = "75090"             # your student ID
 # ==================================================
 
 # 1. variables

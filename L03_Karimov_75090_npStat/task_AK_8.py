@@ -3,9 +3,9 @@ import numpy as np
 import pandas as pd
 
 # ====== YOUR DATA (change only these lines) ======
-NAME = "Abu"
+NAME = "Abduvoris"
 SURNAME = "Karimov"
-ID = "123456"            # your student ID
+ID = "75090"             # your student ID
 # ==================================================
 
 seed = int(ID[-3:])                  # as in task 2
