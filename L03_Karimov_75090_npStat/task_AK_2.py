@@ -4,13 +4,13 @@ NAME = "Abduvoris"
 SURNAME = "Karimov"
 ID = "75090"
 
-sumID = sum(int(d) for d in ID)
-sumID_0 = sum(int(d) for d in ID[1:])
-sumID_1 = sum(int(d) for d in ID[:-1])
+sumID = 21
+sumID_0 = 14
+sumID_1 = 21
 n = 2
 k = 3
-seed = int(ID[-3:])
-first3 = int(ID[:3])
+seed = 90
+first3 = 750
 
 print("Name:", NAME)
 print("Surname:", SURNAME)
